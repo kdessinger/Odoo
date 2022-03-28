@@ -6,7 +6,7 @@ If you set the parameter INSTALL_NGINX to True you should also configure workers
 
 Installation procedure
 1. Download the script:
-sudo wget https://github.com/anoopk350/odoo/install.sh
+sudo wget https://github.com/anoopk350/odoo/Odoo.sh
 2. Modify the parameters as you wish.
 There are a few things you can configure, this is the most used list:
 OE_USER will be the username for the system user.
